@@ -2,6 +2,6 @@
 <html lang="en">
 <body>
     <?php
-    echo "Putri Andien Fitria X RPL C";?> 
+    echo "Ririn Eka Septiarini X RPL C";?> 
 </body>
 </html>
